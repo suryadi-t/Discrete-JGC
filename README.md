@@ -1,1 +1,1 @@
-# Discrete-JGC
+# Discrete Jacobian Granger Causality
